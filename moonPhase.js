@@ -1,4 +1,5 @@
 /*
+Pages available to check
 Credits
 
 Inspiration 
